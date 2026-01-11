@@ -1,0 +1,51 @@
+
+State Machine - |env_sensing|aht20:aht20_0|subState
+Name subState.00011101 subState.00011100 subState.00011011 subState.00011010 subState.00011001 subState.00011000 subState.00010111 subState.00010110 subState.00010101 subState.00010100 subState.00010011 subState.00010010 subState.00010001 subState.00010000 subState.00001111 subState.00001110 subState.00001101 subState.00001100 subState.00001011 subState.00001010 subState.00001001 subState.00001000 subState.00000111 subState.00000110 subState.00000101 subState.00000100 subState.00000011 subState.00000010 subState.00000001 subState.00000000 
+subState.00000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+subState.00000001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+subState.00000010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+subState.00000011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+subState.00000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+subState.00000101 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+subState.00000110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+subState.00000111 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+subState.00001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+subState.00001001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+subState.00001010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+subState.00001011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+subState.00001100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00001101 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00001110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00001111 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00010000 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00010001 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00010010 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00010011 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00010100 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00010101 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00010110 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00010111 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00011000 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00011001 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00011010 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00011011 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00011100 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+subState.00011101 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |env_sensing|aht20:aht20_0|state
+Name state.FINISH state.PROCESS_DATA state.READ_DATA state.WAIT_MEAS state.TRIGGER_MEAS state.WAIT_RESET state.SOFTRESET state.IDLE state.ERROR 
+state.IDLE 0 0 0 0 0 0 0 0 0 
+state.SOFTRESET 0 0 0 0 0 0 1 1 0 
+state.WAIT_RESET 0 0 0 0 0 1 0 1 0 
+state.TRIGGER_MEAS 0 0 0 0 1 0 0 1 0 
+state.WAIT_MEAS 0 0 0 1 0 0 0 1 0 
+state.READ_DATA 0 0 1 0 0 0 0 1 0 
+state.PROCESS_DATA 0 1 0 0 0 0 0 1 0 
+state.FINISH 1 0 0 0 0 0 0 1 0 
+state.ERROR 0 0 0 0 0 0 0 1 1 
+
+State Machine - |env_sensing|adc_spi_reader:adc0|state
+Name state.IDLE state.GAP state.FRAME 
+state.IDLE 0 0 0 
+state.FRAME 1 0 1 
+state.GAP 1 1 0 

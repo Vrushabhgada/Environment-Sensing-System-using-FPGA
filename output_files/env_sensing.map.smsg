@@ -1,0 +1,6 @@
+Info (10281): Verilog HDL Declaration information at env_sensing.v(13): object "HEX0" differs only in case from object "hex0" in the same scope File: E:/2_Courses/ECEN5863PLESD/Project3/Module4/env_sensing/env_sensing.v Line: 13
+Info (10281): Verilog HDL Declaration information at env_sensing.v(14): object "HEX1" differs only in case from object "hex1" in the same scope File: E:/2_Courses/ECEN5863PLESD/Project3/Module4/env_sensing/env_sensing.v Line: 14
+Info (10281): Verilog HDL Declaration information at env_sensing.v(15): object "HEX2" differs only in case from object "hex2" in the same scope File: E:/2_Courses/ECEN5863PLESD/Project3/Module4/env_sensing/env_sensing.v Line: 15
+Info (10281): Verilog HDL Declaration information at env_sensing.v(17): object "HEX5" differs only in case from object "hex5" in the same scope File: E:/2_Courses/ECEN5863PLESD/Project3/Module4/env_sensing/env_sensing.v Line: 17
+Warning (10268): Verilog HDL information at aht20.v(73): always construct contains both blocking and non-blocking assignments File: E:/2_Courses/ECEN5863PLESD/Project3/Module4/env_sensing/aht20.v Line: 73
+Info (10281): Verilog HDL Declaration information at aht20.v(8): object "error" differs only in case from object "ERROR" in the same scope File: E:/2_Courses/ECEN5863PLESD/Project3/Module4/env_sensing/aht20.v Line: 8
