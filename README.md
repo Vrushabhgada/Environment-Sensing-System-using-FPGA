@@ -66,7 +66,9 @@ The system consists of multiple hardware modules integrated on an FPGA:
 The complete system was implemented and demonstrated on FPGA hardware. A video demonstration of the working system is available:
 
 📽️ **Demo Video**:
-[https://drive.google.com/file/d/1w44Eq0RzYRh732fqBFsgHVLWPfVnF8OY/view](Demo Video)
+
+
+[Demo Video](https://drive.google.com/file/d/1w44Eq0RzYRh732fqBFsgHVLWPfVnF8OY/view)
 
 ---
 
